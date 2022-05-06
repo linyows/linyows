@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### Yo 👋
+### Hi there 👋
+
+I'm linyows. I'm a Go, Ruby, PHP, and JavaScript developer working at GMO Pepabo and I do a bunch of open source stuff in Fukuoka, Japan. You can also find me on [Twitter](https://twitter.com/linyows). I haven't muttered at all these days. 🌴
+
+![linyows's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyows)
