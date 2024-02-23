@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 I'm linyows. I'm a software engineer with Go, Ruby, PHP and JavaScript working at Sakura Internet, Inc. and I do a bunch of open source stuff in Fukuoka, Japan. Also I'm research about mail on distributed system. You can also find me on [X](https://twitter.com/linyows). I haven't muttered at all these days. 🌴
 
-Email: [yo+github@tomohisaoda.com](mailto:yo+github@tomohisaoda.com)
+Email: [yo+github@tomohisaoda.com](mailto:yo+github@tomohisaoda.com)  
 PGP Key: [keybase.io/linyows](https://keybase.io/linyows/pgp_keys.asc?fingerprint=fe164f06e3e0da44a3c1257b09c6a6237b0accb2)
